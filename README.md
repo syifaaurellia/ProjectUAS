@@ -18,7 +18,7 @@ Cara Menjalankan Program :
 
 ### Untuk penjelasan program berupa pdf silahkan kunjungi link berikut :
 
-[Modul Menerapkan MVC pada Bahasa Pemrograman Python] (https://drive.google.com/file/d/1LAaF0gbMjVrvAIqbsOkV3Hi6R7vi_irV/view?usp=drivesdk)
+[Modul Menerapkan MVC pada Bahasa Pemrograman Python](https://drive.google.com/file/d/1LAaF0gbMjVrvAIqbsOkV3Hi6R7vi_irV/view?usp=drivesdk)
 
 ### Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
